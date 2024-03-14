@@ -1,0 +1,33 @@
+[
+      {
+        "id": 1,
+        "name": "Figurine Astérix",
+        "img": "../assets/pictures/figurine-asterix.jpg",
+        "alt": "Une figurine d'Astérix",
+        "description" : "Une figurine du célèbre gaulois Astérix !",
+        "material": "vinyle",
+        "dimensions": "hauteur : 8cm",
+        "price": "13€03"
+      },
+      {
+        "id":2,
+        "name": "Figurine Obélix",
+        "img": "../assets/pictures/figurine-obelix.jpg",
+        "alt": "Une figurine d'Obélix",
+        "description" : "Obélix avec dans les bras Idéfix",
+        "material": "vinyle",
+        "dimensions": "hauteur : 10cm",
+        "price": "12€20"
+      },
+      {
+        "id":3,
+        "name": "Figurine Jules César",
+        "img": "../assets/pictures/figurine-cesar.jpg",
+        "alt": "Une figurine de Jules César",
+        "description" : "Une figurine du célèbre romain Jules César",
+        "material": "plastique",
+        "dimensions": "hauteur : 7cm",
+        "price": "12€48"
+      }
+]
+    

@@ -1,0 +1,34 @@
+.nav-text a {
+    color: #ff0000;
+    text-decoration: none;
+    font-family: 'Comfortaa';
+}
+
+.nav-text :hover {
+    opacity: 40%;
+    text-decoration: none;
+}
+  
+ul {
+    width: 50vw;
+    font-size: 120%;
+    text-transform: uppercase;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style-type: none;
+}
+  
+.nav-text {
+    padding: 1em;
+}
+  
+header {
+    display: flex;
+    flex: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #fdd90b;
+    border-bottom: 3px solid #000000;
+    height: 100px;
+}

@@ -1,0 +1,42 @@
+div {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    width: 95%;
+    padding: 10px;
+}
+
+h2 {
+    text-transform: uppercase;
+    text-decoration: underline;
+    align-self: center;
+}
+
+button {
+    border-radius: 5px;
+    width: 20%;
+    align-self: center;
+    font-family: 'Comfortaa';
+    font-size: 1.2rem;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+input, textarea {
+    border-radius: 5px;
+}
+
+input {
+    height: 2rem;
+    height: 50px;
+}
+
+label, ::placeholder {
+    font-family: 'Comfortaa';
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    color: var(--color3);
+}
